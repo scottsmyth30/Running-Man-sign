@@ -1,0 +1,10 @@
+// Master Template Running Man Logic File
+
+// Timer Presets
+#define TM0 7  // Changed from 5 to 7 seconds
+#define TM1 7  // Changed from 5 to 7 seconds
+#define TM2 1  // Transition delay remains 1 second
+#define TM3 7  // Changed from 5 to 7 seconds
+#define TM4 7  // Changed from 5 to 7 seconds
+
+// Other logic remains the same...
